@@ -1,5 +1,6 @@
 # Computer Craft Music Maker
 A little project for CC:Tweaked.
+Pastebin links will be provided when the project is finished
 
 There are 3 files that go on a disk.
 - organ.lua - This will play .organ files and send the commands to all the players
